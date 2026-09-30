@@ -9,7 +9,7 @@
 
 ### 🏋️ Featured Project: NetFit (넷핏)
 > **게이미피케이션 기반 공공 체육시설 & 듀얼 AI 피트니스 플랫폼**
-- **팀 저장소**: [pes9476/netfit (runsv)](https://github.com/pes9476/netfit/tree/runsv)
+- **팀 저장소**: [encore-ai-campus/mlo-02-p1-team4](https://github.com/encore-ai-campus/mlo-02-p1-team4)
 - **배포 주소**: [https://netfit-production.onrender.com](https://netfit-production.onrender.com)
 - **핵심 기여 및 엔지니어링 성과**:
   - **월 0원 비용의 무중단 듀얼 AI**: Groq LLaMA 3.3(0.8s) + Google Gemini(0.1s) 자동 폴백 라우터 및 RAG 지식 주입
