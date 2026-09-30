@@ -1,7 +1,7 @@
 # Hi there, I'm Junbum (박준범) 👋
 **데이터 파이프라인부터 AI 연동, 웹·앱 서비스 구현까지 End-to-End로 완성하는 엔지니어입니다.**
 
-- 💼 **Notion Portfolio**: [👉 상세 포트폴리오 보러가기]([여기에_방금_복사한_노션_링크를_붙여넣으세요](https://grizzled-hen-794.notion.site/3eb6ee5b72b3804c9d5ce55d0e2a8ab8?source=copy_link))
+- 💼 **Notion Portfolio**: [👉 상세 포트폴리오 보러가기](https://grizzled-hen-794.notion.site/3eb6ee5b72b3804c9d5ce55d0e2a8ab8?source=copy_link)
 - 📧 **Email**: junbum8398@gmail.com
 - 🛠️ **Core Tech**: Python, Django, PostgreSQL, Groq LLaMA 3.3, Google Gemini, Open-Meteo, Git
 
